@@ -1,5 +1,5 @@
-# cas
-Cool-Ass-Streamer is a ffmpeg script to stream video + audio on youtube 24/7
+# streamer script
+This is a ffmpeg script to stream video + audio on youtube 24/7
 
 ## requirements
 you need ffmpeg
